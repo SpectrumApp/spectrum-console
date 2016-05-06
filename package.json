@@ -1,0 +1,23 @@
+{
+  "name": "spectrum-console",
+  "version": "0.8.0",
+  "description": "Replaces console.* with version that redirects to Spectrum app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpectrumApp/spectrum-console.git"
+  },
+  "keywords": [
+    "logging",
+    "console"
+  ],
+  "author": "Frank Wiles <frank@revsys.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpectrumApp/spectrum-console/issues"
+  },
+  "homepage": "https://github.com/SpectrumApp/spectrum-console#readme"
+}
