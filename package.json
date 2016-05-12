@@ -14,10 +14,14 @@
     "logging",
     "console"
   ],
-  "author": "Frank Wiles <frank@revsys.com>",
-  "license": "MIT",
+  "author": "Frank Wiles <frank@revsys.com> (http://www.frankwiles.com)",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/SpectrumApp/spectrum-console/issues"
   },
-  "homepage": "https://github.com/SpectrumApp/spectrum-console#readme"
+  "homepage": "https://github.com/SpectrumApp/spectrum-console#readme",
+  "dependencies": {
+    "unirest": "^0.4.2",
+    "uuid": "^2.0.2"
+  }
 }
